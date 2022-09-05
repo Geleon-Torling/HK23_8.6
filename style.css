@@ -1,0 +1,30 @@
+html,
+body {
+    padding-left: 32px;
+    padding-right: 32px;
+}
+
+.nav_menu {
+    text-align: right;
+}
+
+.about_me {
+    display: flex;
+    flex-direction: column;
+}
+
+.tip_of_day {
+    display: flex;
+    flex-direction: column;
+    color: gray;
+}
+
+.knowlege {
+    display: flex;
+    flex-direction: column;
+    color: green;
+}
+
+.footer {
+    text-align: right;
+}
